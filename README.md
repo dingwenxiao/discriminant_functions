@@ -1,4 +1,4 @@
-#  Implementation - Discriminant functions
+#Discriminant functions
 -----
 Fisher, Hokashyap, Quadratic and linear discriminant functions
 ---
